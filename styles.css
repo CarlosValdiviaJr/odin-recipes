@@ -1,0 +1,32 @@
+h1 {
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: lightcoral;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul,
+ol {
+    list-style-position:inside;
+    text-align: center;
+    padding: 0;
+    margin-left: 10%;
+}
+
+li {
+    text-align: left;
+}
+
+h2, h3 {
+    text-align: left;
+    margin-left: 9%;
+}
+p {
+    text-align: left;
+    margin-left: 10%;
+}
